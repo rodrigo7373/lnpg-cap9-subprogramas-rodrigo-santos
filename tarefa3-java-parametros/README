@@ -1,0 +1,7 @@
+por que o valor original não mudou;
+o que significa “passagem por valor”;
+qual valor realmente foi copiado.
+
+O valor original não mudou porque, quando uma variável é passada como parâmetro para um método, o que ele realmente recebe é uma cópia dela.
+Passagem por valor quer dizer passar o valor da variável como parâmetro para o método.
+5 foi o valor copiado.
