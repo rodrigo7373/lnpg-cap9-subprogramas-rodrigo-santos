@@ -1,0 +1,5 @@
+quais partes eram repetitivas;
+quais partes ficaram mais reutilizáveis;
+impacto da modularização na legibilidade.
+
+Nesta tarefa, não havia partes repetitivas, contudo, com o uso da modularização, eu poderia facilmente reutilizar partes do código nesse ou em outro programa. Quanto à legibilidade, ficou tâo boa que é possível entender o programa com apenas as quatro últimas linhas do programa.
