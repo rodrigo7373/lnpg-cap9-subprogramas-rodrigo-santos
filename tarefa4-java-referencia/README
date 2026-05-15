@@ -1,0 +1,7 @@
+1. Java possui passagem por referência verdadeira?
+2. O que exatamente é copiado na chamada?
+3. Por que alterações no objeto permanecem após a chamada?
+
+1. Não, pois ele não copia o objeto diretamente, mas sim o caminho até ele.
+2. A referência do objeto.
+3. Porque Java copia a referÊncia do objeto, existindo assim duas entidades que apontam para o mesmo objet, ou seja, se um mudar, o outro também muda.
