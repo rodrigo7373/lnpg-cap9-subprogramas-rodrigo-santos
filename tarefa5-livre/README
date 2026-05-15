@@ -1,0 +1,26 @@
+Requisitos mínimos
+O programa deve possuir:
+pelo menos 6 subprogramas;
+pelo menos 2 funções com retorno;
+passagem de parâmetros;
+reutilização de funções;
+separação clara de responsabilidades.
+Obrigatório
+Adicionar no README:
+diagrama simples das chamadas;
+justificativa da divisão dos subprogramas;
+dificuldades encontradas;
+vantagens percebidas da modularização.
+
+Não achei onde colocar 2 funções com retorno.
+
+Tive dificuldades com coisas novas para mim:  ArrayList e erro de buffer do Scanner.
+Dividi o programa em vários subprogramas para poder organizar o código e reutilizar subprogramas.
+
+mostrarMenu(itens, scanner) --> mostra o menu principal; recebe a lista de objetos e o objeto scanner para ler a resposta do usuario.
+limparTerminal --> limpa o textp anterior do terminal.
+validarMenu() --> faz a validação do menu principal.
+mostrarEstoque() --> mostra o estoque.
+mostrarMenuEstoque --> mostra o menu embaixo do estoque.
+adicionarItem() --> adiciona um item.
+
